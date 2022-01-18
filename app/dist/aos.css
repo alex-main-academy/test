@@ -1,31 +1,31 @@
 [data-aos][data-aos][data-aos-duration="50"],
 body[data-aos-duration="50"] [data-aos] {
-	transition-duration: 50ms
+	-webkit-transition: 50ms
 }
 
 [data-aos][data-aos][data-aos-delay="50"],
 body[data-aos-delay="50"] [data-aos] {
-	transition-delay: 0
+	-webkit-transition-delay: 0
 }
 
 [data-aos][data-aos][data-aos-delay="50"].aos-animate,
 body[data-aos-delay="50"] [data-aos].aos-animate {
-	transition-delay: 50ms
+	-webkit-transition-delay: 50ms
 }
 
 [data-aos][data-aos][data-aos-duration="100"],
 body[data-aos-duration="100"] [data-aos] {
-	transition-duration: .1s
+	-webkit-transition-duration: .1s
 }
 
 [data-aos][data-aos][data-aos-delay="100"],
 body[data-aos-delay="100"] [data-aos] {
-	transition-delay: 0
+	-webkit-transition-delay: 0
 }
 
 [data-aos][data-aos][data-aos-delay="100"].aos-animate,
 body[data-aos-delay="100"] [data-aos].aos-animate {
-	transition-delay: .1s
+	-webkit-transition-delay: .1s
 }
 
 [data-aos][data-aos][data-aos-duration="150"],
@@ -50,12 +50,12 @@ body[data-aos-duration="200"] [data-aos] {
 
 [data-aos][data-aos][data-aos-delay="200"],
 body[data-aos-delay="200"] [data-aos] {
-	transition-delay: 0
+	-webkit-transition-delay: 0
 }
 
 [data-aos][data-aos][data-aos-delay="200"].aos-animate,
 body[data-aos-delay="200"] [data-aos].aos-animate {
-	transition-delay: .2s
+	-webkit-transition-delay: .2s
 }
 
 [data-aos][data-aos][data-aos-duration="250"],
@@ -110,12 +110,12 @@ body[data-aos-duration="400"] [data-aos] {
 
 [data-aos][data-aos][data-aos-delay="400"],
 body[data-aos-delay="400"] [data-aos] {
-	transition-delay: 0
+	-webkit-transition-delay: 0
 }
 
 [data-aos][data-aos][data-aos-delay="400"].aos-animate,
 body[data-aos-delay="400"] [data-aos].aos-animate {
-	transition-delay: .4s
+	-webkit-transition-delay: .4s
 }
 
 [data-aos][data-aos][data-aos-duration="450"],
@@ -140,12 +140,12 @@ body[data-aos-duration="500"] [data-aos] {
 
 [data-aos][data-aos][data-aos-delay="500"],
 body[data-aos-delay="500"] [data-aos] {
-	transition-delay: 0
+	-webkit-transition-delay: 0
 }
 
 [data-aos][data-aos][data-aos-delay="500"].aos-animate,
 body[data-aos-delay="500"] [data-aos].aos-animate {
-	transition-delay: .5s
+	-webkit-transition-delay: .5s
 }
 
 [data-aos][data-aos][data-aos-duration="550"],
@@ -170,12 +170,12 @@ body[data-aos-duration="600"] [data-aos] {
 
 [data-aos][data-aos][data-aos-delay="600"],
 body[data-aos-delay="600"] [data-aos] {
-	transition-delay: 0
+	-webkit-transition-delay: 0
 }
 
 [data-aos][data-aos][data-aos-delay="600"].aos-animate,
 body[data-aos-delay="600"] [data-aos].aos-animate {
-	transition-delay: .6s
+	-webkit-transition-delay: .6s
 }
 
 [data-aos][data-aos][data-aos-duration="650"],
@@ -200,12 +200,12 @@ body[data-aos-duration="700"] [data-aos] {
 
 [data-aos][data-aos][data-aos-delay="700"],
 body[data-aos-delay="700"] [data-aos] {
-	transition-delay: 0
+	-webkit-transition-delay: 0
 }
 
 [data-aos][data-aos][data-aos-delay="700"].aos-animate,
 body[data-aos-delay="700"] [data-aos].aos-animate {
-	transition-delay: .7s
+	-webkit-transition-delay: .7s
 }
 
 [data-aos][data-aos][data-aos-duration="750"],
